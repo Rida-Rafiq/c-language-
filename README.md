@@ -57,9 +57,9 @@ I'm a Computer Science student passionate about cybersecurity and low-level prog
 
 ## 📬 Contact / Connect
 
-- GitHub: [your-username]
-- LinkedIn: [your-link]
-- Email: [your-email]
+- GitHub: [Rida-Rafiq]
+- LinkedIn: [Rida Rafiq]
+- Email: [rafiqridaa@gmail.com]
 
 Feel free to fork, suggest improvements, or collaborate!
 
